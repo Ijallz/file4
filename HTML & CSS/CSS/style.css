@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+}
+#biru {
+  color: blue;
+}
+#abu-abu {
+  color: grey;
+}
+#pink {
+  color: pink;
+}
+.uname {
+  color: white;
+}
+.password {
+  color: white;
+}
+input[type="uname"] {
+  background-color: blueviolet;
+  border: 5px solid white;
+  width: 200px;
+  padding: 5px;
+  margin: 10px;
+}
+input[type="password"] {
+  background-color: chocolate;
+  border: 5px dotted yellow;
+  width: 200px;
+  padding: 5px;
+  margin: 10px;
+}
+input[name="password"] {
+  color: white;
+}

@@ -1,0 +1,30 @@
+body{
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    background-attachment: fixed;
+}
+h1 {
+  color: chocolate;
+  font-size: 20px;
+  font-weight: bolder;
+  font-style: italic;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+table {
+  width: 50%;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+td {
+  padding: 10px;
+  border: 2px dotted chocolate;
+  background-color: orange;
+}
+.no {
+  background-color: cadetblue;
+  color: brown;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.nama {
+  background-color: cornflowerblue;
+  color: aliceblue;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
